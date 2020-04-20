@@ -1,0 +1,8 @@
+2020-04-16 16:22:33,824:INFO:pytestPractice.test_Logging:Test Executed
+2020-04-16 16:22:33,825:WARNING:pytestPractice.test_Logging:There is a warning
+2020-04-16 16:22:33,825:ERROR:pytestPractice.test_Logging:There is an error
+2020-04-16 16:22:33,825:CRITICAL:pytestPractice.test_Logging:Critical Error
+2020-04-16 16:50:57,982:INFO:pytestPractice.test_Logging:Test Executed
+2020-04-16 16:50:57,983:WARNING:pytestPractice.test_Logging:There is a warning
+2020-04-16 16:50:57,983:ERROR:pytestPractice.test_Logging:There is an error
+2020-04-16 16:50:57,983:CRITICAL:pytestPractice.test_Logging:Critical Error
